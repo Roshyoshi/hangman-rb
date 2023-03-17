@@ -1,0 +1,19 @@
+--- !ruby/object:Game
+word: 'controversy
+
+  '
+state: !ruby/object:Letters
+  winning_letters:
+  - c
+  - o
+  - "n"
+  - t
+  - r
+  - v
+  - e
+  - s
+  - "y"
+  correct_guesses: []
+  incorrect_guesses: []
+guess_count: 1
+
